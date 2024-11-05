@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owunoobo.github.io/FVU/sitemap_index.txt
+Sitemap: https://owunoobo.github.io/Frm/sitemap_index.txt
+Sitemap: https://owunoobo.github.io/USv/sitemap_index.txt
+Sitemap: https://owunoobo.github.io/YvB/sitemap_index.txt
